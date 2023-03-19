@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757926616774",
+    "project_id": "ufi-filters-india",
+    "storage_bucket": "ufi-filters-india.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757926616774:android:2c58786eadde2c8cae81c7",
+        "android_client_info": {
+          "package_name": "com.mobiquest.ufifilters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757926616774-ev2sc0ehgf3bo7ss4qf75kjpnjoa8s9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVOGb2UkSTam4etAxBkVjFiDR0UqmaA20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757926616774-ev2sc0ehgf3bo7ss4qf75kjpnjoa8s9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
